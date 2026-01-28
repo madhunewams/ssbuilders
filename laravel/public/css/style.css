@@ -244,8 +244,8 @@ section {
   /* width: 50px; */
   height: 80px;
   object-fit: cover;
-  border-radius: 50%;
-  border: 2px solid #015dab;
+  /* border-radius: 50%;
+  border: 2px solid #015dab; */
 }
 
 .brand-title {

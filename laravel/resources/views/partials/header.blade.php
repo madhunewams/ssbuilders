@@ -4,7 +4,7 @@
 <header id="header" class="sticky top-0">
   <div class="max-w-full mx-auto md:px-6 sm:px-1 py-10 h-16 flex items-center justify-between">
     <div class="text-[#015dab] items-center justify-between flex items-center gap-3">
-      <img src="{{ asset('images/logoforss.png') }}" alt="SS Builders Logo" class="brand-logo">
+      <img src="{{ asset('images/ssbuilders.png') }}" alt="SS Builders Logo" class="brand-logo">
       <h1 class="text-md font-bold">SS PROMOTERS AND BUILDERS PRIVATE LIMITED</h1>
     </div>
     <nav class="hidden md:flex gap-10 font-medium text-sm text-white">
